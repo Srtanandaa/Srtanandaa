@@ -1,4 +1,7 @@
-## Olá! Bem-Vindo(a) ao meu perfil! 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=BA55D3&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</p>
+
 
 Me chamo Fernanda, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia!  
 Atualmente, estou focada em me tornar uma **Desenvolvedora Full Stack**, explorando e aprimorando minhas habilidades em várias linguagens e tecnologias.
