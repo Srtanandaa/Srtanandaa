@@ -1,4 +1,4 @@
-## Olá! Bem-Vindo(a) ao meu perfil! :)
+## Olá! Bem-Vindo(a) ao meu perfil! 
 
 Me chamo Fernanda, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia!  
 Atualmente, estou focada em me tornar uma **Desenvolvedora Full Stack**, explorando e aprimorando minhas habilidades em várias linguagens e tecnologias.
