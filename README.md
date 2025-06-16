@@ -43,6 +43,10 @@ Acredito que o sucesso é resultado de muito estudo, dedicação e persistência
   <div style="display: flex; align-items: center; gap: 8px;">
     <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
     <span>Python</span>
+    <div style="display: flex; align-items: center; gap: 8px;">
+    <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+    <span>PHP</span>
+  </div>
   </div>
 </div>
 
