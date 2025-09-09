@@ -1,6 +1,5 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?size=17&duration=6000&pause=4000&color=BA55D3&lines=Hello,+devs!+Sejam+bem+vindos!" alt="Typing SVG" />
-
 </p>
 
 Me chamo Fernanda, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia!  
@@ -52,4 +51,26 @@ Acredito que o sucesso é resultado de muito estudo, dedicação e persistência
 
 ---
 
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img
+        alt="Top Linguagens"
+        height="200"
+        width="400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srtanandaa&theme=radical&layout=compact&langs_count=9&hide_title=true&cache_seconds=1800"
+      />
+    </td>
+    <td>
+      <img
+        alt="Sequência de Contribuições"
+        height="200"
+        width="400"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Srtanandaa&theme=radical&locale=pt-br"
+      />
+    </td>
+  </tr>
+</table>
 
