@@ -47,19 +47,6 @@ Acredito que o sucesso é resultado de muito estudo, dedicação e persistência
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img
-    alt="Sequência de Contribuições"
-    height="200"
-    width="400"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Srtanandaa&theme=radical&locale=pt-br"
-  />
-</p>
-
----
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Srtanandaa&label=Visualizações%20do%20perfil&color=BA55D3&style=for-the-badge"
